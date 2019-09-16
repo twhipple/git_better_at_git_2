@@ -1,3 +1,2 @@
-for i in range(5):
-    print(i**5)
-
+for i in range(9):
+    print(i**4)
